@@ -1,5 +1,5 @@
 # Leetcodes
-This repo aims to archive all of the [leetcode](https://leetcode.com) problems I've solved. With this goal, it follows the following structure:
+This repo aims to archive all of the [leetcode](https://leetcode.com) problems I've solved. It follows the following structure:
 
 1. Problem folder *(e.g two-sum)*
    1. README file
