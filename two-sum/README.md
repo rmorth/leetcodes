@@ -1,7 +1,6 @@
 # [Two Sum](https://leetcode.com/problems/two-sum/)
 
 **_Difficulty:_** easy
-**_Research:_** yes
 
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 
@@ -49,4 +48,3 @@ _Even though it isn't shown in the examples, numbers don't have to be sequential
 
 -   Solution O(n):
     ![](python/on.png)
-

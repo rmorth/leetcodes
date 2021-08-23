@@ -5,8 +5,7 @@ This repo aims to archive all of the [leetcode](https://leetcode.com) problems I
    1. README file
       1. Problem's details
       2. Difficulty *(stated in the platform)*
-      3. Research *(if I went in completely blind)*
-      4. Solution results
+      3. Solution results
    2. Language folder *(e.g python)*
       1. Solution file(s)
       2. Submission image files
