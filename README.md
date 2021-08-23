@@ -11,7 +11,11 @@ This repo aims to archive all of the [leetcode](https://leetcode.com) problems I
       1. Solution file(s)
       2. Submission image files
 
-### Why are you solving these?
+## Why are you solving these?
 
 I mostly solve these to solidify knowledge and for fun when I'm bored.
+
+## Resources
+
+- [How to use leetcode efficiently for beginners](https://leetcode.com/discuss/career/450215/How-to-use-LeetCode-to-help-yourself-efficiently-and-effectively-(for-beginners))
 
