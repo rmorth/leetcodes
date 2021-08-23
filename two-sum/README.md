@@ -48,6 +48,6 @@ Output: [0,1]
 
 - Solution O(n^2):
 
-![image-20210823142342720](C:\Users\wyllie\AppData\Roaming\Typora\typora-user-images\image-20210823142342720.png)
+![image-20210823142342720](python\basic.png)
 
 - Solution O(n):
