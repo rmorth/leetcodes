@@ -9,7 +9,7 @@ class Solution:
         # d = {target - y: idx}
         d = {}
         for i, y in enumerate(nums):
-            if y in d:
+            if y in d:  # dictionary lookup is O(n)
                 return [d[y], i]
             else:
                 d[target - y] = i
