@@ -1,5 +1,7 @@
 # [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
+**_Difficulty:_** easy
+
 Write a function to find the longest common prefix string amongst an array of strings.
 
 If there is no common prefix, return an empty string `""`.
@@ -21,13 +23,12 @@ Explanation: There is no common prefix among the input strings.
 
 **Constraints:**
 
-- `1 <= strs.length <= 200`
-- `0 <= strs[i].length <= 200`
-- `strs[i]` consists of only lower-case English letters.
+-   `1 <= strs.length <= 200`
+-   `0 <= strs[i].length <= 200`
+-   `strs[i]` consists of only lower-case English letters.
 
 ## Solutions
 
-- Solution 1
+-   Solution 1
 
-  ![](./python/solution1.png)
-
+    ![](./python/solution1.png)
