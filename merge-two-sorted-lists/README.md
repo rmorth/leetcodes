@@ -44,3 +44,4 @@ Output: [0]
   ![](python/solution2.png)
 
 *You should see the python solution code, it contains some remarks about the results shown...*
+
