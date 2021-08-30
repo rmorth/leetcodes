@@ -51,4 +51,14 @@ Output: true
 
 ## Solutions
 
-- 
+- Before refactor
+
+  ![](python/beforerefactor.png)
+
+- Refactor 1
+
+  ![](python/refactor1.png)
+
+- Final solution
+
+  ![](python/final.png)
