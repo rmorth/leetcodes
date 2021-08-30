@@ -17,4 +17,5 @@ I mostly solve these to solidify knowledge and for fun when I'm bored.
 ## Resources
 
 - [How to use leetcode efficiently for beginners](https://leetcode.com/discuss/career/450215/How-to-use-LeetCode-to-help-yourself-efficiently-and-effectively-(for-beginners))
+- [Don't trust leetcode's measurements!](https://leetcode.com/discuss/general-discussion/136683/different-run-time-with-same-code) (you can find other sources saying the same, focus on time and space complexity)
 
