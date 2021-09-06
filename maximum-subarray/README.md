@@ -32,3 +32,6 @@ Output: 23
 
 - `1 <= nums.length <= 3 * 10^4`
 - `-10^5 <= nums[i] <= 10^5`
+
+**Follow up:** If you have figured out the `O(n)` solution, try coding another solution using the **divide and conquer** approach, which is more subtle.
+
